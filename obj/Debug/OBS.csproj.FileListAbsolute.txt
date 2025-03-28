@@ -1,0 +1,7 @@
+C:\Users\semih\OneDrive\Masaüstü\obsuyg\obj\Debug\OBS.csproj.AssemblyReference.cache
+C:\Users\semih\OneDrive\Masaüstü\obsuyg\obj\Debug\OBS.csproj.CoreCompileInputs.cache
+C:\Users\semih\OneDrive\Masaüstü\obsuyg\bin\Debug\OBS.exe.config
+C:\Users\semih\OneDrive\Masaüstü\obsuyg\bin\Debug\OBS.exe
+C:\Users\semih\OneDrive\Masaüstü\obsuyg\bin\Debug\OBS.pdb
+C:\Users\semih\OneDrive\Masaüstü\obsuyg\obj\Debug\OBS.exe
+C:\Users\semih\OneDrive\Masaüstü\obsuyg\obj\Debug\OBS.pdb
