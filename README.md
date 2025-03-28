@@ -59,7 +59,7 @@ git clone https://github.com/mertsemih/obs.git
 ## 📸 Ekran Görüntüleri
 
 ### Ana Sayfa
-![Ana Sayfa](screenshots/ana-sayfa.png)
+![Ana Sayfa](screenshots/akademik-takvim.png.jpg)
 
 ### Not Görüntüleme
 ![Notlar](screenshots/notlar.png)
