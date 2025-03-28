@@ -77,4 +77,4 @@ git clone https://github.com/mertsemih/obs.git
 ![Devamsızlık](screenshots/devamsizlik.png)
 
 ## 📞 İletişim
-semihsariyerli.06@gmail.com
+semihmertsariyerli.06@gmail.com
