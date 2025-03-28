@@ -59,22 +59,22 @@ git clone https://github.com/mertsemih/obs.git
 ## 📸 Ekran Görüntüleri
 
 ### Ana Sayfa
-![Ana Sayfa](screenshots/akademik-takvim.png.jpg)
+![Ana Sayfa](screenshots/ana-sayfa.png.jpg)
 
 ### Not Görüntüleme
-![Notlar](screenshots/notlar.png)
+![Notlar](screenshots/notlar.png.jpg)
 
 ### Sınav Takvimi
-![Sınavlar](screenshots/sinavlar.png)
+![Sınavlar](screenshots/sinavlar.png.jpg)
 
 ### Akademik Takvim
-![Akademik Takvim](screenshots/akademik-takvim.png)
+![Akademik Takvim](screenshots/akademik-takvim.png.jpg)
 
 ### Transkript
-![Transkript](screenshots/transkript.png)
+![Transkript](screenshots/transkript.png.jpg)
 
 ### Devamsızlık Durumu
-![Devamsızlık](screenshots/devamsizlik.png)
+![Devamsızlık](screenshots/devamsizlik.png.jpg)
 
 ## 📞 İletişim
 semihmertsariyerli.06@gmail.com
